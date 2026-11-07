@@ -97,4 +97,43 @@ Reading and writing scores demonstrate a very strong positive correlation (r ≈
 
 ### 5.4 Additional Findings
 - **Parental education** : Students whose parents have higher educational qualifications generally achieve higher median average scores, although the distributions overlap.
-- **Gender** : 
+- **Gender** :  Female students generally achieve slightly higher overall average scores than male students, with considerable overlap between groups.
+- **Lunch category** : Students receiving standard lunch generally achieve higher average scores than those receiving free/reduced lunch. This may reflect differences in socioeconomic circumstances, but the analysis cannot establish the underlying cause.
+
+
+## 6. Recommendations
+
+Based on the findings, schools could consider the following actions:
+- Encourage participation in test preparation programs, while evaluating their effectiveness through further research.
+- Provide additional academic support to students with lower scores across all three subjects, particularly mathematics, which has the lowest average score.
+- Strengthen reading and writing skills together through integrated learning activities.
+- Provide additional educational resources and academic support to students from lower-income families to help reduce performance gaps.
+- Monitor academic performance regularly to identify students who may need early intervention.
+
+## 7. Limitations
+
+Although this analysis provides valuable insights into student academic performance, several limitations have been observed: 
+
+- The dataset contains 1,000 students and may not represent all schools or student populations.
+- The analysis identifies associations but cannot establish cause-and-effect relationships.
+- Important factors such as attendance, study hours, teaching quality, and family income are not directly available.
+- Some categorical variables have unequal group sizes, which may reduce the precision of comparisons involving smaller groups.
+- Race/ethnicity categories are anonymized, limiting their interpretation.
+- Outliers may influence certain statistical summaries.
+
+## 8. Suggested Next Steps
+
+Future work could include:
+
+- Collecting additional information about attendance, study habits, and socioeconomic(family financials) circumstances.
+- Conducting further statistical tests to assess differences between student groups.
+- Developing predictive machine learning models for student performance.
+- Investigating the factors most strongly associated with academic achievement.
+- Creating an interactive dashboard for monitoring student performance.
+
+
+
+
+
+
+
